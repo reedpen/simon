@@ -19,3 +19,6 @@ Try to keep your JS as readable as possible, clean code is best code
 Draft out a plan for what your JS should be doing in pseudo-code
 
 # Things I learned Service
+node middleware makes is very simple to host the frontend of the website
+using ports in the deployment script makes it possible to connect our website to a backend
+make sure to initialize your folder with node before trying to use/install any packages
