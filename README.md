@@ -22,3 +22,8 @@ Draft out a plan for what your JS should be doing in pseudo-code
 node middleware makes is very simple to host the frontend of the website
 using ports in the deployment script makes it possible to connect our website to a backend
 make sure to initialize your folder with node before trying to use/install any packages
+
+# Things I learned mongoDB
+protecting your information using enviornment variables is crucial, especially when your code is public
+mongoAtlas allows for easy storage and access of JSON objects from a database
+javascript code integrates very well with mongo thanks to nodejs
