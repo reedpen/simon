@@ -24,6 +24,11 @@ using ports in the deployment script makes it possible to connect our website to
 make sure to initialize your folder with node before trying to use/install any packages
 
 # Things I learned mongoDB
-protecting your information using enviornment variables is crucial, especially when your code is public
+protecting your information using enviornment variables is crucial, especially when your code base is public
 mongoAtlas allows for easy storage and access of JSON objects from a database
 javascript code integrates very well with mongo thanks to nodejs
+
+# Things I learned login
+be sure to store login information in secure cookies
+using middleware makes it easy to secure information
+again, using environment variables to secure your information is very important
