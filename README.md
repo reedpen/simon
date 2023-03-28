@@ -32,3 +32,6 @@ javascript code integrates very well with mongo thanks to nodejs
 be sure to store login information in secure cookies
 using middleware makes it easy to secure information
 again, using environment variables to secure your information is very important
+# Things I learned WS
+the npm provided websocket package allows for us to enable peer communication on the site, this can be limited in scope
+javascript code allows the developer to control websocket functionality
