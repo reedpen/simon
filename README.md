@@ -35,3 +35,9 @@ again, using environment variables to secure your information is very important
 # Things I learned WS
 the npm provided websocket package allows for us to enable peer communication on the site, this can be limited in scope
 javascript code allows the developer to control websocket functionality
+
+# Things I learned React
+react is super powerful, kinda wish we used this from the beginning
+react code feels much more organized
+when converting to react, you must be meticulous 
+react documentation is very useful
